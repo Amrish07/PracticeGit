@@ -11,7 +11,7 @@ public class Test1Application {
 	boolean isPresent = false;
 	int y = 200;
 	boolean isSub = true;
-	String str = "test1";
+	bolean flag = true;
 
 	public static void main(String[] args) {
 		SpringApplication.run(Test1Application.class, args);
