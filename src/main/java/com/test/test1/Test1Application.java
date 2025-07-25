@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Test1Application {
 
+	int z = 100;
+
 	String name = "mike";
 	int x = 100;
 	boolean isPresent = false;
