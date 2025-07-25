@@ -8,9 +8,11 @@ public class Test1Application {
 
 	String name = "mike";
 	int x = 100;
-	boolean isPresent=false;
+	boolean isPresent = false;
 	int y = 200;
-	boolean isSub=true;
+	boolean isSub = true;
+	String str = "test1";
+
 	public static void main(String[] args) {
 		SpringApplication.run(Test1Application.class, args);
 	}
