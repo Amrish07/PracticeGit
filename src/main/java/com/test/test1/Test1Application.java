@@ -10,6 +10,7 @@ public class Test1Application {
 	int x = 100;
 	boolean isPresent=false;
 	int y = 200;
+	boolean isSub=true;
 	public static void main(String[] args) {
 		SpringApplication.run(Test1Application.class, args);
 	}
